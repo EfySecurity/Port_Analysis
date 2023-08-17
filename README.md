@@ -51,10 +51,16 @@ Iniciando análise de portas...
    Banner: OpenSSH 8.2p1 Ubuntu
 ```
 
-Contribuição
+## Contribuição
 Contribuições para melhorias e novas funcionalidades são bem-vindas. Crie um fork deste repositório, faça suas alterações e envie um pull request.
 
-Licença
-Este projeto está sob a licença XYZ. Consulte o arquivo LICENSE para obter detalhes.
+## Licença
+Este projeto está sob a proteção da licença [MIT](LICENSE)
 
-**AVISO:** Use esta ferramenta apenas de maneira ética e responsável. A análise de portas sem permissão pode violar a política de segurança da empresa ou leis locais.
+## **AVISO:**
+Use esta ferramenta apenas de maneira ética e responsável. A análise de portas sem permissão pode violar a política de segurança da empresa ou leis locais.
+
+## Autor
+Nome: Efy Security
+
+Email: efy.security@proton.me
