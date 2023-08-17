@@ -54,13 +54,15 @@ Iniciando análise de portas...
 ## Contribuição
 Contribuições para melhorias e novas funcionalidades são bem-vindas. Crie um fork deste repositório, faça suas alterações e envie um pull request.
 
-## Licença
-Este projeto está sob a proteção da licença [MIT](LICENSE)
-
 ## **AVISO:**
 Use esta ferramenta apenas de maneira ética e responsável. A análise de portas sem permissão pode violar a política de segurança da empresa ou leis locais.
 
 ## Autor
+
 Nome: Efy Security
 
 Email: efy.security@proton.me
+
+## Licença
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
